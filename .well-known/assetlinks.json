@@ -1,0 +1,18 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.android.persistence",
+    "sha256_cert_fingerprints":
+    ["2A:19:43:FD:FE:3C:2F:D3:B7:E0:B2:1A:C5:7E:B4:DE:56:D6:DE:F5:30:A8:1D:D7:DD:2C:66:0F:E9:B9:CF:BD"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.uber.codelabs.presidio",
+    "sha256_cert_fingerprints":
+    ["74:22:5D:06:01:C7:9A:AD:C1:41:ED:8C:1B:31:AC:A3:65:9B:89:F1:3C:59:1B:3A:69:0F:4C:2A:81:CD:77:DF"]
+  }
+}]
