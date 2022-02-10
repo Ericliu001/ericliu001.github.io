@@ -2,6 +2,15 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
+    "package_name": "com.ericliu.myapplication",
+    "sha256_cert_fingerprints":
+    ["EE:F4:9E:BD:FB:51:D8:2E:04:97:71:08:B3:A3:50:1C:D0:30:E7:FA:93:4A:7E:C3:22:8D:6E:C9:66:E8:D8:7E"]
+  }
+},
+ {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
     "package_name": "com.example.android.persistence",
     "sha256_cert_fingerprints":
     ["2A:19:43:FD:FE:3C:2F:D3:B7:E0:B2:1A:C5:7E:B4:DE:56:D6:DE:F5:30:A8:1D:D7:DD:2C:66:0F:E9:B9:CF:BD"]
